@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937829139170",
+    "project_id": "flash-chat-914f4",
+    "storage_bucket": "flash-chat-914f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937829139170:android:0088e460c9b3670c8014bb",
+        "android_client_info": {
+          "package_name": "co.vinayk29.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937829139170-qh27rbt2nl413g3om99ck3b2epqqt1ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoW3R7oLaFOb-F3IeuzIqOZA3WKvD7eLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937829139170-qh27rbt2nl413g3om99ck3b2epqqt1ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
