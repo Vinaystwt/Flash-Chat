@@ -3,7 +3,6 @@
 Built using **Flutter** and **Firebase**.<br/>
 A modern messaging app where users can sign up and log in to chat.
 
-![sign_log](/ressources/flash1.jpg) ![content](/ressources/flash2.jpg)
 
 ## Packages:
 
